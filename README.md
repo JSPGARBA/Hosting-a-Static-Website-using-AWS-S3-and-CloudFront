@@ -22,6 +22,8 @@ LINK
 b) On the S3 Dashboard, click on the Create Bucket button to create a new storage bucket to store your static website files.
 c) Enter a bucket name. The name has to be globally unique, so just try with another name if you get an error “Bucket with the same name already exists”.
 d) Upload static wesite files
+![Screenshot_2024-05-11_03_57_57](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/2b5c0603-f9dc-4c82-ab39-dc42cbc5b8d9)
+
 
 
 Step 2 - Step 3 - Enabling Static Website Hosting on S3 Bucket
