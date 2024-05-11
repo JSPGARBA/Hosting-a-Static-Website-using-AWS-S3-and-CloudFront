@@ -79,6 +79,8 @@ g) Leave other settings intact. Scroll to the bottom and click on the Create dis
 h) As you remember from earlier, CloudFront will now distribute all your files to edge locations around the world. This process will take some time to complete.
 ![Screenshot_2024-05-11_04_22_55](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/f76d515c-caad-4f7a-9efe-91b66c382f60)
 
+![Screenshot_2024-05-11_04_24_46](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/3ae5938d-a1a4-4823-bcbb-74434317d8a9)
+
 
 Conclusion
 You have successfully setup a high performance and highly available static website on AWS using Amazon S3 and Amazon CloudFront. All these without setting up a single server machine.
