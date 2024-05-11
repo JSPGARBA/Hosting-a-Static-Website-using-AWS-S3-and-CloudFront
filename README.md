@@ -63,7 +63,8 @@ Scroll to the bottom and look for Static website hosting section
 
 You can find the URL under Bucket website endpoint. Click on it to view your website.
 
-link
+![Screenshot_2024-05-11_04_13_49](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/a271591f-edc1-431f-b38b-871ef4233802)
+
 
 
 Step 5 - Creating a CloudFront Distribution
