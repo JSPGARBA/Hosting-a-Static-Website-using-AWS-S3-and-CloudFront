@@ -77,7 +77,8 @@ e) Under Settings section > for Alternate domain name (CNAME), you may give your
 f) Enter “index.html” for Default root object. This file name must match with the index document file name entered in Step 3 c) previously on S3.
 g) Leave other settings intact. Scroll to the bottom and click on the Create distribution button.
 h) As you remember from earlier, CloudFront will now distribute all your files to edge locations around the world. This process will take some time to complete.
-link
+![Screenshot_2024-05-11_04_22_55](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/f76d515c-caad-4f7a-9efe-91b66c382f60)
+
 
 Conclusion
 You have successfully setup a high performance and highly available static website on AWS using Amazon S3 and Amazon CloudFront. All these without setting up a single server machine.
