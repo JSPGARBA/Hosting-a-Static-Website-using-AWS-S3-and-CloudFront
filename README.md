@@ -52,7 +52,8 @@ c) To grant public read access for your website on this bucket, copy the followi
 You must change the jspbuckett-aws to your bucket name
 
 Click on the Save changes button when you are done.
-link
+![Screenshot_2024-05-11_04_08_44](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/5e428b85-38dc-4935-a0d3-22153f548cb8)
+
 
 Step 4 Return to the Bucket overview page
 
