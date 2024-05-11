@@ -27,7 +27,8 @@ d) Upload static wesite files
 
 
 Step 2 - Step 3 - Enabling Static Website Hosting on S3 Bucket
-link
+![Screenshot_2024-05-11_04_01_38](https://github.com/JSPGARBA/Hosting-a-Static-Website-using-AWS-S3-and-CloudFront/assets/86578841/afc2933f-49fe-4715-a2c1-c24d4fd20d2b)
+
 
 Step 3 - Add a Bucket Policy
 Before anyone could access the website on the bucket, we need to explicitly tell S3 Bucket to allow that.
